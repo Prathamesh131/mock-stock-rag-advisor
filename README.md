@@ -1,5 +1,6 @@
 # mock-stock-rag-advisor
 
+
 A minimal C++/Python project using the [Crow](https://github.com/CrowCpp/crow) microframework, with dependencies managed via [vcpkg](https://github.com/microsoft/vcpkg) and built using CMake.
 
 This project emulates a stock platform and is written in C++, leveraging Boost and modern CMake practices.
